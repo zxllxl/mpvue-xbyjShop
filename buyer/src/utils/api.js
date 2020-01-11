@@ -1,6 +1,7 @@
 import request from './request'
 
-const ApiRootUrl = 'http://127.0.0.1:8360/api/'
+// const ApiRootUrl = 'http://127.0.0.1:8360/api/'
+const ApiRootUrl = 'http://192.168.0.101:8360/api/'
 
 const api = {
   // 首页数据接口
